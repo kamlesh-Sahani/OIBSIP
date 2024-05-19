@@ -28,7 +28,7 @@ Each task is created using HTML, CSS, and JavaScript.
 ![task3-3](https://github.com/kamlesh-Sahani/OIBSIP/assets/126887367/71b2406d-52f1-492f-aa50-cbf5f36bd3e2)
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/username/repository.git`
-2. Open the project directory: `cd project-directory`
+1. Clone the repository: `git clone https://github.com/kamlesh-Sahani/OIBSIP.git`
+2. Open the project directory: `cd OIBSIP`
 
 
