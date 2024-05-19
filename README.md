@@ -1,5 +1,5 @@
 
-# Project Name
+# OIBSIP Internship Tasks
 
 ## Description
 This project consists of three tasks:
